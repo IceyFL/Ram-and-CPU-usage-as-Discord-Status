@@ -5,6 +5,7 @@ It then formats this to look nice and sends it as a request to discord.
 
 It should look like this:
 
+![image](https://github.com/IceyFL/Ram-and-CPU-usage-as-Discord-Status/assets/82657910/e6bd971b-7458-4c0a-bfa1-e706cc4b1e14)
 
 
 
